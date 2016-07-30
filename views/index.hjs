@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>{{ title }}</h1>
+    <p>Welcome to {{ title }}</p>
+    <a href="http://imgur.com/n0Jnzbw"><img src="http://i.imgur.com/n0Jnzbw.jpg" title="source: imgur.com" /></a>
+    <p>This is my first nodejs/expressjs App</p>
+  </body>
+</html>
